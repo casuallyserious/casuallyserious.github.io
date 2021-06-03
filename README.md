@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+## The Casually Serious Podcast! 
 
-You can use the [editor on GitHub](https://github.com/casuallyserious/casuallyserious.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+We would like to define our objective in the most startup-life hustler's definition. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+We are in the business of investing our time into 
+other people's experiences and marketing them to 
+the audience. 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Our Mission
 
-### Jekyll Themes
+Our mission is very clear. To produce the kind of content videos which we wish we ourselves saw growing up. We take it upon our responsibility to really ensure that we are our brother's keepers. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/casuallyserious/casuallyserious.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Our Guests 
+
+1. Nihar Dhulekar
+```
+Nihar was our first guest among the 
+```
+
+### Where to Listen!
+1. [Youtube](https://www.youtube.com/channel/UCSvldnJ2awBrBmgGJFwda-Q)
+3. [Spotify]()
+4. [Apple Podcasts]()
+5. [Google Podcasts]()
+6. [Anchor.fm]()
+
+### Newsletter
+Sign up to our Episode Newsletter to catch along with us for all prompt updates about our latest episodes!
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Casually Serious Official**
+- [Instagram](https://instagram.com/casuallyserious_official?utm_medium=copy_link)
+
+Abhinav Gudipati
+- [Linkedin](https://www.linkedin.com/in/abhinav-gudipati-609794197/)
+  
+Fazal Khan
+- [Instagram]()
+- [Linkedin](https://www.linkedin.com/in/fazal-khan-3a430b18b/)
