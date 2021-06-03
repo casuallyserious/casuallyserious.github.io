@@ -1,3 +1,5 @@
+[![image](https://www.linkpicture.com/q/WhatsApp-Image-2021-05-26-at-11.51.50-AM-1.jpeg)](https://www.linkpicture.com/view.php?img=LPic60b92367359df34049977)
+
 ## The Casually Serious Podcast! 
 
 We would like to define our objective in the most startup-life hustler's definition. 
@@ -29,9 +31,9 @@ Nihar was our first guest among the
 ### Newsletter
 Sign up to our Episode Newsletter to catch along with us for all prompt updates about our latest episodes!
 
-### Support or Contact
+### Contact
 
-**Casually Serious Official**
+**Casually Serious Official** : contact us for collaborations 
 - [Instagram](https://instagram.com/casuallyserious_official?utm_medium=copy_link)
 
 Abhinav Gudipati
@@ -40,3 +42,4 @@ Abhinav Gudipati
 Fazal Khan
 - [Instagram]()
 - [Linkedin](https://www.linkedin.com/in/fazal-khan-3a430b18b/)
+
